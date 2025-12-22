@@ -1,0 +1,11 @@
+{
+  "name": "Bullgun Token",
+  "symbol": "BLLG",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "Bullgun Token (BLLG) is an educational ERC-20 token on Ethereum with a fixed maximum supply of 21,000,000 tokens, created primarily for training and experimental purposes.",
+  "website": "https://www.guntermeynen.be/bullgun-token.html",
+  "explorer": "https://etherscan.io/token/0xfd9188DE9d439C8C543d1eC0094675edC79ed150",
+  "status": "active",
+  "id": "0xfd9188DE9d439C8C543d1eC0094675edC79ed150"
+}
